@@ -29,13 +29,12 @@ main{
 
 .texts{
   width: 100%;
-  margin: auto;
+  margin: auto; 
 } 
 
 h1{
   font-size: 20px;
   margin-top: 5px;
-  padding: 0 0px;
   color: hsl(218, 44%, 22%);
 }
 
